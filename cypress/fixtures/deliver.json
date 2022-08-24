@@ -1,0 +1,54 @@
+{
+   
+    "signup": {
+        "name": "David Silva",
+        "cpf": "03887590384",
+        "email": "david@gmail.com",
+        "whatsapp":"85999999999",
+        "address": {
+            "postalcode": "60743762",
+            "street": "Avenida Doutor Silas Munguba",
+            "number": "6380",
+            "details": "Apt 204 bloco C",
+            "district": "Passaré",
+            "city_state": "Fortaleza/CE"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+
+    },
+    "cpf_inv":{
+        "name": "Bruno Alves",
+        "cpf": "038875903AA",
+        "email": "bruno@gmail.com",
+        "whatsapp":"85999999999",
+        "address": {
+            "postalcode": "60743762",
+            "street": "Avenida Doutor Silas Munguba",
+            "number": "6360",
+            "details": "Apt 100 bloco A",
+            "district": "Passaré",
+            "city_state": "Fortaleza/CE"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "email_inv": {
+        "name": "Andre Lopes",
+        "cpf": "03887590384",
+        "email": "andre@.com.br",
+        "whatsapp":"85999999999",
+        "address": {
+            "postalcode": "60743762",
+            "street": "Avenida Doutor Silas Munguba",
+            "number": "6380",
+            "details": "Apt 204 bloco C",
+            "district": "Passaré",
+            "city_state": "Fortaleza/CE"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+
+    }
+}
