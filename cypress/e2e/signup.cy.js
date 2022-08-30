@@ -1,7 +1,7 @@
 import signup from '../pages/SignupPage.cy'
 import SignupFactory from '../../factories/SignupFactory.cy'
 import SignupPageCy from '../pages/SignupPage.cy'
-//import { it } from 'faker/lib/locales'
+import { it } from 'faker/lib/locales'
 
 describe('Signup', ()=>{
     
